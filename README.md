@@ -1,8 +1,8 @@
-### Hi!!! I'm Marcos!
+### Hi!!! I'm Marcos! I'm from Brazil! =)
 
 - 🔭 I’m currently working on mechanical engineer
-- 🌱 I’m currently learning HTML/CSS and JavaScript
-- 🤔 I’m looking for help with HTML/CSS and JavaScript
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for help with Python
 - 😄 Pronouns: he/his/him
 
 <div align="center">
